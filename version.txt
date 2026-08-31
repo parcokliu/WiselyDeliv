@@ -9,6 +9,6 @@
 #   4. 最后才改这里
 # 反过来的话，骑手会点到一个还不存在的下载链接。
 
-versionCode=2
-versionName=0.3-test
+versionCode=1
+versionName=0.2-phase2
 apkUrl=https://github.com/parcokliu/WiselyDeliv/releases/latest/download/app-release.apk
