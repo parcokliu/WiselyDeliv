@@ -1,14 +1,4 @@
-# WiselyDeliv 更新清单
-#
-# 手机上的 app 会读这个文件：versionCode 比自己大就提示骑手更新。
-#
-# 发新版本的顺序（不能颠倒）：
-#   1. 改 app/build.gradle.kts 的 versionCode / versionName
-#   2. 打包 assembleRelease
-#   3. 把 APK 传上本仓库的 Release
-#   4. 最后才改这里
-# 反过来的话，骑手会点到一个还不存在的下载链接。
-
-versionCode=1
-versionName=0.2-phase2
+# WiselyDeliv 更新清单 — 由 WiselyDelivery 的 release-apk 工作流写入，勿手改。
+versionCode=2
+versionName=0.3.2
 apkUrl=https://github.com/parcokliu/WiselyDeliv/releases/latest/download/app-release.apk
