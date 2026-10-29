@@ -1,4 +1,4 @@
 # WiselyDeliv 更新清单 — 由 WiselyDelivery 的 release-apk 工作流写入，勿手改。
-versionCode=261005
-versionName=26.10.5
+versionCode=261006
+versionName=26.10.6
 apkUrl=https://github.com/parcokliu/WiselyDeliv/releases/latest/download/app-release.apk
